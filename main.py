@@ -8,6 +8,6 @@ liste_adversaire = ["service_n", "physique_n", "piste_n", "corbeau_n", "épée_n
 liste_neutre = ["cocon_n", "dinosaure_n", "visage_n", "ensemble_n", "amérique_n", "sahara_n", "branche_n"]
 mot_noir = "barrière_n"
 
-# print(mot_indice(model, liste_adversaire, liste_equipe, liste_neutre, mot_noir))
+print(mot_indice(model, liste_adversaire, liste_equipe, liste_neutre, mot_noir))
 
-print(explication_mot("loisir_n", model, liste_adversaire, liste_equipe, liste_neutre, mot_noir))
+# print(explication_mot("loisir_n", model, liste_adversaire, liste_equipe, liste_neutre, mot_noir))
